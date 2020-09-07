@@ -2,8 +2,8 @@
 
 I am a product manager by day, working at the intersection of code and no-code in my side time.
 
-- 🔭 I’m currently working on moving all of the custom CSS and JavaScript that I have in my Webflow project into Github, and reconnecting it all from there.
-- 🌱 I’m currently learning more JavaScript - I'm interested in progressing towards building with Jamstack.
+- I’m currently working on moving all of the custom CSS and JavaScript that I have in my Webflow project into Github, and reconnecting it all from there.
+- I’m currently learning more JavaScript - I'm interested in progressing towards building with Jamstack.
 
 <!--
 **danjmeehan/danjmeehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
